@@ -1,2 +1,2 @@
 # Video-Summarization-using-ML
-#Steps to be followed
+#Steps to be followed:
